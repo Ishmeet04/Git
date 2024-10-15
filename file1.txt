@@ -1,0 +1,1 @@
+Intro changed. Join us for an ACM GitHub session where you'll learn the essentials of version control and collaborative coding. Master GitHub workflows to boost your project management and teamwork skills!
